@@ -11,10 +11,7 @@ namespace poeFirstDraft
     {
         public static readonly string connectionString =
               @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=chatbotcyberdb;Integrated Security=True";
-
-
         // test the connection when the app starts
-        // so we know early if something is wrong
         public static bool TestConnection()
         {// start of TestConnection
             try
