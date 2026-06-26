@@ -76,7 +76,7 @@ namespace POE_FirstDraft
         }
         // the NLP detects the intent and sends it here
         private void handle_add_task(string input)
-        {// start of handle_add_task
+        {// start of handle_add_tasks
 
             // I try to extract the task name from the input
             // I look for common phrases and remove them to get just the task
