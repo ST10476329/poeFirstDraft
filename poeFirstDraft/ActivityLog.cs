@@ -19,7 +19,7 @@ namespace poeFirstDraft
             // Save to memory
             logs.Add(entry);
 
-            // Also save to file so it doesn't disappear when we close the app
+            //  save to file so it doesn't disappear when we close the app
             try
             {
                 string filename = Path.Combine(
