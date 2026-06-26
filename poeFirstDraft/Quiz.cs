@@ -66,7 +66,7 @@ namespace poeFirstDraft
                 "After a breach you should change passwords immediately and enable 2FA to secure your accounts."
             ));
 
-            // ── True / False Questions ─────────────────────────
+            // This is my True/False questions
 
             questions.Add(new Questions(
                 "TRUE or FALSE: You should use the same password for all accounts.",
